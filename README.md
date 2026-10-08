@@ -48,7 +48,6 @@ Features
 
 # Maps Page
 
-
 # Future Features
 
 Placing text regarding information about the restaurant and cafés on a seperate area when viewed on Tablet or Iphone.
@@ -57,7 +56,7 @@ Responsive navigation bar for Tablet and Iphone.
 Contact information for Wakehurst Place.
 Updating the name field in the comments page to exclude numbers.
 
-Top of Page
+[Top of Page]
 
 # UX
 
@@ -65,23 +64,19 @@ Top of Page
 
 To provide upto date information of Wakehurst Place and Kew Gardens with external links to the website of Wakehurst.
 
-
 # Site Goal
 
 To keep the visitors updated with new attractions and future events.
 
-
 # Visitors
 
 Visitors can see some of the views of the landscape of Wakehurst Place and the surrounding landscape.
-
 
 # Communication
 
 The individual people which complete the Comments form are able to give their views of Wakehurst and will aid the planning of future action taken at Wakehurst.
 
 The personal information taken will be safeguarded and will used for demographic purposes.
-
 
 # User Goals
 
@@ -105,7 +100,6 @@ The colour scheme was chosen to compliment Wakehurst Place and Kew Gardens. Most
 
 # Forest Colours
 
-
 # Typography
 
 Old English Text MT, Sans-Serif for navigation and h1 headings.
@@ -120,41 +114,29 @@ The blocks of white are picture holders
 
 # Home Page
 
-
 ## Home Page
-
 
 ## Pre-history Page
 
-
 ## Early History Page
 
+## Today at Wakehurst Page
 
 ## Today at Wakehurst Page
 
-
-## Today at Wakehurst Page
-
-
 ## History of the Mansion Page
 
-
 ## History of the Mansion Page
-
 
 # Comments Page
 
-
 ## Comments Page
-
 
 ## Maps Page
 
-
 ## Maps of Wakehurst Page
 
-
-Top of Page
+[Top of Page]
 
 # Testing
 
@@ -174,53 +156,46 @@ Website tested in Firefox, Opera, Edge and Chrome.
 
 # Lighthouse scores
 
-
 ## Index Page
 
-
 ## Lighthouse scores
-
 
 ## Early History Page
 
-
 # Lighthouse scores
 
-
 ## Lighthouse scores
-
 
 ## History of the Mansion Page
 
-
 ## Lighthouse scores
-
 
 ## Comments Page
 
-
 ## Lighthouse scores
-
 
 ## Maps Page
 
-
 # Navigation Menu
+
 The relevant page will open
 Clicked each menu link
 Taken to selected Page
 
 ## Social Link icons
+
 External links will open
 Click on icon
 Taken to selected site in new tab
 
 ## Required form fields
+
 If the required field are left blank, the form will not submit. The fields will display messsages
 Incomplete form
 A message will be displayed to make sure the correct information is filled in
 
 ## Form submit button
+
 When the submit button is pressed, the form submits
 Complete form and click button
 Information is sent and form cleared ready for more inputs
@@ -242,15 +217,17 @@ During the development of the website, I always had a local copy of the website 
 
 I could not confirm that the website was working correctly on an iPhone or tablet needed for the course. I have a Galaxy Tab and phone. The website on my tablet and phone reacts the same as when I simulate the tablet and iPhone on the laptop.
 
-Top of Page
+[Top of Page]
 
 # Technologies Used
 
 ## Main Languages Used
+
 HTML
 CSS
 
 # Programmes Used
+
 Gitpod to create my HTML files and CSS styles sheet before committing and pushing the project to GitHub.
 
 GitHub to store my repository for submission.
@@ -261,7 +238,7 @@ Affinity Photo to design the main picture with the inserts of the project’s ho
 
 Basic Markdown cheat sheets to complete the Readme file.
 
-Top of Page
+[Top of Page]
 
 # Deployment
 
@@ -304,34 +281,32 @@ Change the location to where you want the cloned directory to be.
 Type git clone, and paste the URL you copied.
 Press 'Enter', and your local clone will be created.
 
-Top of Page
+Top of Page]
 
 # Credits
+
 ## Content
+
 The basic setup of the pages was based on the websites of the National Trust, Wakehurst Place and Kew Gardens. As I based the project on Wakehurst Place, I looked at their website more. I chose a forest pallet with the colours of the different species of trees and sky.
 
 The navigation and footer style of coding I took from Love Running and Percipio. Percipio was the website I was learning from before beginning the course with Code Institute.
 
 # Media
+
 The images on the Early History and History of the Mansion are from Google images. The images and MP4's on the other pages are mine. These were taken on a Pentax K70 with 18-55mm and 55-200mm zoom lens and 50mm prime lens.
 
 # Code
-The resources that were used in the project:
 
+The resources that were used in the project:
 
 Sams TeachYourself HTML, CSS, and JavaScript (THIRD EDITION)
 
-
 Mike McGrath HTML, CSS & JavaScript (Special Edition)
-
 
 All photos and mp4's are mine except for images on pre-history.html and mansion.html. Saved my photos and mp4's on https://dnashwilton.imgur.com/all/, onedrive, C://, usb and portable harddrives.
 
-
 I have taken some of the text from Wakehurst, Kew Gardens and various sources from Goggle. I have then rewritten some of the information in my own words. I have run the documentation through the microsoft editor for word 365 and grammerly and found that a small percentage is in the text.
-
 
 My thanks to my mentor Martina for the help and encouragement she gave me while I was developing this project.
 
-
-Top of Page
+[Top of Page]
