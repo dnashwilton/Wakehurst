@@ -6,6 +6,11 @@
 #title {
   display: flex;
   justify-content: center;
+  font-family:
+    Old English Text MT,
+    calibri,
+    sans-serif;
+  font-size: 30pt;
 }
 
 #mansion {
@@ -26,6 +31,11 @@
 #menu {
   display: flex;
   justify-content: space-around;
+  font-family:
+    Old English Text MT,
+    Calibri,
+    sans-serif;
+  font-size: 20pt;
 }
 
 .caption {
