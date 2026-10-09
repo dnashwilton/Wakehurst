@@ -11,13 +11,14 @@
 #mansion {
   width: 900px;
   height: auto;
+  display: flex;
 }
 
 #picture {
   margin-left: 350px;
   width: 850px;
   height: auto;
-  display: flex;
+  display: block;
   justify-content: center; /* Horizontal centering */
   align-items: center; /* Vertical centering */
 }
@@ -25,4 +26,9 @@
 #menu {
   display: flex;
   justify-content: space-around;
+}
+
+.caption {
+  display: flex;
+  justify-content: center;
 }
