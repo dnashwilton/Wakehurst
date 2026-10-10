@@ -18,7 +18,13 @@ body {
   font-size: 30pt;
 }
 
-#mansion {
+#mansion1 {
+  width: 900px;
+  height: auto;
+  display: flex;
+}
+
+#mansion2 {
   width: 900px;
   height: auto;
   display: flex;
@@ -43,11 +49,6 @@ body {
   font-size: 20pt;
 }
 
-.caption {
-  display: flex;
-  justify-content: center;
-}
-
 #stables {
   width: 700px;
   height: 350px;
@@ -68,10 +69,8 @@ body {
   justify-content: space-around;
   background-color: aqua;
   margin: 50px;
-}
-
-#views {
-  background-color: #d4c9c1;
   max-width: 300px;
   gap: 20px;
 }
+
+/* No errors founf 10/10/2026 */
