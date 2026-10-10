@@ -4,6 +4,9 @@
   font-family: Calibri, "Trebuchet MS", sans-serif;
 }
 
+body {
+  margin: 25px;
+}
 #title {
   display: flex;
   justify-content: center;
@@ -48,9 +51,13 @@
   width: 600px;
   height: auto;
   float: left;
+  justify-content: center;
 }
 
 .cafe {
   background-color: bisque;
-  margin-left: 10px;
+  margin-left: 30px;
+  width: 700px;
+  height: auto;
+  padding: 10px;
 }
