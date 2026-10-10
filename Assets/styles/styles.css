@@ -50,7 +50,11 @@
   float: left;
 }
 
-.stables{
-   background-color: black;
-  margin-left: 100px;
+.cafe {
+   background-color:bisque;
+  margin-left: 10px;
+  p (
+   padding: auto;
+     )
+
 }
