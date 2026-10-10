@@ -62,3 +62,16 @@ body {
   height: auto;
   padding: 10px;
 }
+
+#gardens {
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+  margin: 50px;
+}
+
+#views {
+  background-color: #d4c9c1;
+  max-width: 300px;
+  gap: 20px;
+}
