@@ -100,6 +100,8 @@ The colour scheme was chosen to compliment Wakehurst Place and Kew Gardens. Most
 
 # Forest Colours
 
+![alt text](<Assets/readmere/Forest Colours.webp>)
+
 # Typography
 
 Old English Text MT, Sans-Serif for navigation and h1 headings.
