@@ -100,7 +100,7 @@ The colour scheme was chosen to compliment Wakehurst Place and Kew Gardens. Most
 
 # Forest Colours
 
-![alt text](<Assets/readmere/Forest Colours.webp>)
+![Forest Colours](<Assets/readmd/Forest Colours.webp>)
 
 # Typography
 
@@ -114,9 +114,9 @@ All images were taken by myself with the exception of the images on the pages of
 
 The blocks of white are picture holders
 
-# Home Page
-
 ## Home Page
+
+![Home Page](Assets/readmd/wakehurst_home_page.webp)
 
 ## Pre-history Page
 

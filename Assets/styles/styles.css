@@ -78,7 +78,7 @@ hr {
 
 #gardens {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   background-color: #a2ac94; /* hex colour */
   height: 225px;
   gap: 20px;
