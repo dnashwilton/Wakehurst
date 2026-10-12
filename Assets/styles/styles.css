@@ -78,10 +78,26 @@ hr {
 
 #gardens {
   display: flex;
-  justify-content: space-between;
-  background-color: #a2ac94; /* hex colour */
-  height: 225px;
-  gap: 20px;
+  /* justify-content: space-between; */
+  flex-wrap: wrap;
+  gap: 25px;
+  /* background-color: #a2ac94; hex colour */
+}
+
+.gardens {
+  height: 110px;
+  padding: 10px;
+  /* margin: 50px; */
+}
+
+.subhead1 {
+  display: flex;
+  justify-content: center;
+}
+
+.subhead2 {
+  display: flex;
+  justify-content: center;
 }
 
 /* No errors founf 10/10/2026 */
