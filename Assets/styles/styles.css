@@ -23,9 +23,13 @@ body {
 }
 
 #mansion2 {
-  width: 900px;
+  width: 700px;
   height: auto;
-  background-color: #d4c9c1;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  flex: 1;
+  background-color: bisque;
 }
 
 #picture {
@@ -50,10 +54,11 @@ body {
 #stables {
   width: 700px;
   height: auto;
-  display: flex;
+  /* display: flex;
   flex-direction: row;
   align-self: flex-end;
-  justify-content: centre;
+  justify-content: flex-between;
+  flex: 1; */
 }
 
 /* .cafe {
@@ -75,3 +80,4 @@ body {
 
 /* No errors founf 10/10/2026 */
 /* Error found. Curly Bracket in comments. Amended and problem solved  11/10/2026*/
+/* W3C check. Changed flex-box coding and now passed check 12/10/2026 */
