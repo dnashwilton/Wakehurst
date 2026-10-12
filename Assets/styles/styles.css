@@ -17,6 +17,13 @@ body {
   font-size: 30pt;
 }
 
+hr {
+  width: 50%; /* Reduce width so it can be centered */
+  margin: 20px auto; /* Auto left/right margins center it */
+  border: none; /* Remove default border */
+  border-top: 2px solid #333; /* Custom line style */
+}
+
 #mansion1 {
   width: 900px;
   height: auto;
@@ -72,9 +79,8 @@ body {
 #gardens {
   display: flex;
   justify-content: space-around;
-  background-color: aqua;
-  margin: 50px;
-  max-width: 300px;
+  background-color: #a2ac94; /* hex colour */
+  height: 225px;
   gap: 20px;
 }
 
