@@ -95,7 +95,8 @@ Top of Page
 
 # Design
 
-The Colour Scheme
+# The Colour Scheme
+
 The colour scheme was chosen to compliment Wakehurst Place and Kew Gardens. Most of the colours were used and the background colour 'Whitesmoke' was used.
 
 # Forest Colours
