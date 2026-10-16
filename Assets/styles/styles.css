@@ -5,7 +5,7 @@
 
 body {
   margin: 25px;
-  background-color: whitesmoke;
+  background-color: #d4c9c1;
 }
 #title {
   display: flex;
@@ -81,7 +81,7 @@ hr {
   /* justify-content: space-between; */
   flex-wrap: wrap;
   gap: 25px;
-  /* background-color: #a2ac94; hex colour */
+  background-color: #cbccbc; /*hex colour*/
 }
 
 .gardens {
