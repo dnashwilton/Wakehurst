@@ -22,7 +22,7 @@ h4 {
     Old English Text MT,
     calibri,
     sans-serif;
-  font-size: 30pt;
+  font-size: 4rem;
 }
 
 hr {
@@ -88,13 +88,13 @@ hr {
   display: flex;
   /* justify-content: space-between; */
   flex-wrap: wrap;
-  gap: 25px;
+  /*gap: 10px;*/
   background-color: #cbccbc; /*hex colour*/
 }
 
 .gardens {
   height: 110px;
-  padding: 10px;
+  padding: 5px;
   /* margin: 50px; */
 }
 
@@ -111,3 +111,4 @@ hr {
 /* No errors founf 10/10/2026 */
 /* Error found. Curly Bracket in comments. Amended and problem solved  11/10/2026*/
 /* W3C check. Changed flex-box coding and now passed check 12/10/2026 */
+/* W3C check. Changed padding to 5px. commented out gap. Passed all checks 19/11/2026
