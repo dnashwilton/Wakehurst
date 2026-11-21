@@ -56,14 +56,14 @@ hr {
   align-items: center; /* Vertical centering */
 }
 
-#menu {
+nav {
   display: flex;
   justify-content: space-evenly;
   font-family:
     Old English Text MT,
     Calibri,
     sans-serif;
-  font-size: 20pt;
+  font-size: 2rem;
 }
 
 #stables {
