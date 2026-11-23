@@ -20,6 +20,7 @@ p, h2, h3, h4 {
     calibri,
     sans-serif;
   font-size: 4rem;
+  color: #a2ac94;
 }
 
 hr {
@@ -41,7 +42,7 @@ hr {
   justify-content: space-between;
   flex-direction: column;
   flex: 1;
-  background-color: bisque;
+  background-color: #cbccbc;
 }
 
 #picture {
@@ -65,7 +66,7 @@ nav {
 
 a, a:visited{
   text-decoration: none;
-  color: black;
+  color: #a2ac94 ;
 }
 
 
