@@ -20,7 +20,7 @@ p, h2, h3, h4 {
     calibri,
     sans-serif;
   font-size: 4rem;
-  color: #a2ac94;
+  /* color: #a2ac94; */
 }
 
 hr {
@@ -105,12 +105,16 @@ a, a:visited{
 .subhead1 {
   display: flex;
   justify-content: center;
-  color: #a2ac94;
+  /* color: #a2ac94; */
 }
 
 .subhead2 {
   display: flex;
   justify-content: center;
+}
+
+.subhead1, #title {
+  color: #a2ac94;
 }
 
 /* No errors founf 10/10/2026 */
