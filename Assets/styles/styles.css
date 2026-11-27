@@ -8,9 +8,13 @@ body {
   background-color: #d4c9c1;
 }
 
+/* Fonts */
+
 p, h2, h3, h4 {
   font-family: Calibri, "Trebuchet MS", sans-serif;
 }
+
+/* Heading */
 
 #title {
   display: flex;
@@ -23,6 +27,8 @@ p, h2, h3, h4 {
   /* color: #a2ac94; */
 }
 
+/* Section Separators */
+
 hr {
   width: 50%; /* Reduce width so it can be centered */
   margin: 20px auto; /* Auto left/right margins center it */
@@ -30,10 +36,23 @@ hr {
   border-top: 2px solid #333; /* Custom line style */
 }
 
+/* Picture of Wakehurst Place */
+
 #mansion1 {
   width: 900px;
   height: auto;
 }
+
+#picture {
+  margin-left: 350px;
+  width: 850px;
+  height: auto;
+  display: block;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
+}
+
+/* Stables Restaurant */
 
 #mansion2 {
   width: 700px;
@@ -45,14 +64,17 @@ hr {
   background-color: #cbccbc;
 }
 
-#picture {
-  margin-left: 350px;
-  width: 850px;
+#stables {
+  width: 700px;
   height: auto;
-  display: block;
-  justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
+  /* display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  justify-content: flex-between;
+  flex: 1; */
 }
+
+/* Nav */
 
 nav {
   display: flex;
@@ -69,17 +91,6 @@ a, a:visited{
   color: #a2ac94 ;
 }
 
-
-#stables {
-  width: 700px;
-  height: auto;
-  /* display: flex;
-  flex-direction: row;
-  align-self: flex-end;
-  justify-content: flex-between;
-  flex: 1; */
-}
-
 /* .cafe {
   background-color: bisque;
   margin-left: 30px;
@@ -87,6 +98,14 @@ a, a:visited{
   height: auto;
   padding: 10px;
 } */
+
+/* Views of Wakehurst Gardens */
+
+.subhead1 {
+  display: flex;
+  justify-content: center;
+  /* color: #a2ac94; */
+}
 
 #gardens {
   display: flex;
@@ -102,22 +121,20 @@ a, a:visited{
   margin: 50px;
 }
 
-.subhead1 {
-  display: flex;
-  justify-content: center;
-  /* color: #a2ac94; */
-}
+/* The Loder Valley, Lake and the Wetlands */
 
 .subhead2 {
   display: flex;
   justify-content: center;
 }
 
+/* Colours of Text */
+
 .subhead1, #title {
   color: #a2ac94;
 }
 
-/* No errors founf 10/10/2026 */
+/* No errors found 10/10/2026 */
 /* Error found. Curly Bracket in comments. Amended and problem solved  11/10/2026*/
 /* W3C check. Changed flex-box coding and now passed check 12/10/2026 */
 /* W3C check. Changed padding to 5px. commented out gap. Passed all checks 19/11/2026 */
